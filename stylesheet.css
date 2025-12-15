@@ -1,6 +1,6 @@
 h1{color:black;
   }
-p{ color:red;
+p{ color:blue;
  }
 button{color:yellow;
       }
@@ -8,4 +8,12 @@ body{
   font-family:"Arial black";
   font-size:16px;
   line-height:1.6;
+  background-color: #fff5f7;
+}
+img{ 
+  width:80px;
+  height:80px;
+border:10px;
+  border-radius:40px;
+  padding:7px;
 }
